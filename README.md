@@ -1,2 +1,2 @@
 # kodluyoruzrepo13
-kodluyoruz yemek tarifi projemdir.
+My recipe project in Kodluyoruz
